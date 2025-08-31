@@ -4,9 +4,15 @@ A fun and interactive reaction speed testing game built with **React + Vite**.
 Click on the moving targets as quickly as you can to score points before time runs out!
 
 ---
-## 🧑‍💻 Demo
+## 🧑‍💻live Demo
 
 You can view a live version [here](https://reaction-speed-game-sigma.vercel.app/)
+
+---
+
+## 🎥 GamePlay Video
+
+You can view a live version [here](https://drive.google.com/file/d/1or4vhGTPLPZtrBxGKioieIEgXkJh48hA/view?usp=sharing)
 
 ---
 
