@@ -43,7 +43,7 @@ export default function Home() {
 
       {/* Top Right Code Button */}
       <a
-        href="https://github.com/NishantSingh2964"
+        href="https://github.com/NishantSingh2964/Reaction-Speed-Game"
         target="_blank"
         rel="noopener noreferrer"
         onClick={handleClick()}
